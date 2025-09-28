@@ -1,0 +1,5 @@
+timestap,level,message
+2025-09-28T12:00:00Z,INFO,Started service
+2025-09-28T12:00:01Z,ERROR,Failed to load x 
+2025-09-28T12:00:02Z,INFO,Processing request
+2025-09-28T12:00:03Z,INFO,Finsished job
