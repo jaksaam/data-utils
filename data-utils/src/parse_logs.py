@@ -35,5 +35,5 @@ def main():  # Glavna funkcija programa, parsira arguemnte, poziva odgovarajuce 
         print("Unsupported file format. Use CSV or JSON.")
 
 if __name__ == "__main__":  # Garancija da se main pokrece samo kad se pokrene skripta direknto
-    main()  #  Ne dozvoljava se main pokrece ako se uvozi fajl u drugi fajl
+    main()  #  Ne dozvoljava da se main pokrece ako se uvozi fajl u drugi fajl
 
